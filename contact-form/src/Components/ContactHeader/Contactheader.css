@@ -1,0 +1,11 @@
+.contact_section h1{
+    all: unset;
+    font-size: 48px;
+    font-weight: 800;
+}
+
+.contact_section p{
+    margin-top: 5px;
+    max-width: 1000px;
+    font-weight: 500;
+}
