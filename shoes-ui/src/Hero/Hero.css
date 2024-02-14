@@ -1,0 +1,32 @@
+.hero{
+    margin: 60px 0px 0px 72px;
+    display: flex;
+    align-items: center;
+    height: 100%;
+}
+.hero-content{
+    display: flex;
+    flex-direction: column;
+    gap: 36px;
+}
+.hero h1{
+    font-weight: 800;
+    font-size: 108px;
+    line-height: 102px;
+}
+.hero p{
+    font-weight: 600;
+    color: #5A5959;
+    max-width: 400px;
+}
+
+.hero-btn{
+    display: flex;
+    gap: 40px;
+}
+.hero-btn .cat-btn{
+    all: unset;
+    border: 1px solid #5A5959;
+    color: #5A5959;
+    padding: 6px 16px;
+}
